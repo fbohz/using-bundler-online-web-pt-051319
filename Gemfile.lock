@@ -50,7 +50,7 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print!
-  hashie (= 3.6.0)
+  hashie
   octokit (~> 2.0)
   pry
   rspec
